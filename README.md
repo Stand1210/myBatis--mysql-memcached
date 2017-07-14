@@ -3,7 +3,7 @@
 * clone作业工程
 
 	```bash
-git clone http://git.intra.weibo.com/bootcamp2016/distributed-cache.git
+git clone http://git.intra.weibo.com/bootcamp2017/distributed-cache.git
 ```
 
 * 资源地址
