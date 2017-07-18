@@ -12,6 +12,6 @@
 	<bean id="usersDao" class="com.weibo.api.users.dao.UsersDaoImpl" init-method="init"/>
 	
 	<bean id="usersCache" class="cn.sina.api.commons.cache.driver.VikaCacheClient" init-method="init">
-		<property name="serverPort" value="10.77.109.123:11211" />
+		<property name="serverPort" value="10.75.0.118:11211" />
 	</bean>
 </beans>
